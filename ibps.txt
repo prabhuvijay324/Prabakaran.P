@@ -1,14 +1,4 @@
 
-SBI  PO:REG NO:1540091013
-SBI  PO:REG NO:1541330304
-password:9BTUB6H5
-EXAM DATE:30/04/17
-
-INDIA ASSURANCE:
-REG.NO:167292709
-PASSWORD:85NUBMC3
-EXAM DATE:23/04/17
-
 SSC REG.NO:63007803351
     PASSWORD:4540
 SSC CHSL ROLL.NO:8201035640
@@ -16,6 +6,10 @@ SSC CHSL PASSWORD:24031993
 
 SSC MTS ROLL.NO   :8201009803
 SSC MTS EXAM DATE :28-05-2017
+
+
+IBPS CLERK 7 :1590372267
+	ROLL:2791030582
 
 https://practice.oliveboard.in/banking/sectionaltests.php
 www.gkaptitude.com
@@ -71,8 +65,17 @@ TCS NextStep Portal:
 TNPSC LOGIN ID:13692083
 TNPSC PASSWORD:praba243
 
+EmployeeMentId card number:TVD2017M00027106
+
+EmployeeMentId userName:praba24393
+EmployeeMentId password:Sathish@93
+
+
 SSLC Cert.No:7242620
 SSLC Reg.No:803763
 ADHAAR CARD NUMBER:718742285024
+Community Certificate NUmber:3437769
+provided by deputy zonal thasildar
 DMK membership number:TN02131501
+
 
